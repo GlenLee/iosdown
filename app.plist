@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://pcx.cn/app/zqoa_new.ipa</string>
+					<string>http://zcun.com/app/zqoa.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://pcx.cn/app/zqoa.png</string>
+					<string>http://zcun.com/app/zqoa.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://pcx.cn/app/zqoa.png</string>
+					<string>http://zcun.com/app/zqoa.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
